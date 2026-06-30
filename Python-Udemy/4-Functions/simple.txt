@@ -1,0 +1,4 @@
+This is a sample text file
+I have created this to use with my python learning script
+My name is Amit Verma
+Verma is my sirname

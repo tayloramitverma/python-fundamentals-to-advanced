@@ -67,6 +67,12 @@ Python/
 This repo uses conda environments managed via Anaconda.
 
 ```bash
+# Create a new environment
+conda create --name <env_name> python=3.11
+
+# Create with specific packages
+conda create --name <env_name> python=3.11 numpy pandas
+
 # List all environments
 conda env list
 
